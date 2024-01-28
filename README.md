@@ -3,7 +3,7 @@
 ## ⇁  HARPOON 2
 This is a deprecated and all future changes will be to the branch `harpoon2`.
 
-[Harpoon 2](https://github.com/ThePrimeagen/harpoon/tree/harpoon2)
+[Harpoon 2](https://github.com/NextPi/harpoon/tree/harpoon2)
 
 **STATUS**: Merging into mainline April 20th or June 9th (nice)
 
@@ -17,7 +17,6 @@ This is a deprecated and all future changes will be to the branch `harpoon2`.
 [![Neovim](https://img.shields.io/badge/Neovim%200.5+-green.svg?style=for-the-badge&logo=neovim)](https://neovim.io)
 </div>
 
-![Harpoon](harpoon.png)
 -- image provided by **Bob Rust**
 
 ## ⇁  WIP
@@ -45,7 +44,7 @@ to go to the files you want.
 * install using your favorite plugin manager (`vim-plug` in this example)
 ```vim
 Plug 'nvim-lua/plenary.nvim' " don't forget to add this one if you don't have it yet!
-Plug 'ThePrimeagen/harpoon'
+Plug 'NextPi/harpoon'
 ```
 
 ## ⇁ Harpooning
@@ -246,7 +245,7 @@ Result:
 ![tabline](https://i.imgur.com/8i8mKJD.png)
 
 ## ⇁ Social
-For questions about Harpoon, there's a #harpoon channel on [the Primeagen's Discord](https://discord.gg/theprimeagen) server.
-* [Discord](https://discord.gg/theprimeagen)
-* [Twitch](https://www.twitch.tv/theprimeagen)
-* [Twitter](https://twitter.com/ThePrimeagen)
+For questions about Harpoon, there's a #harpoon channel on [the Primeagen's Discord](https://discord.gg/NextPi) server.
+* [Discord](https://discord.gg/NextPi)
+* [Twitch](https://www.twitch.tv/NextPi)
+* [Twitter](https://twitter.com/NextPi)
