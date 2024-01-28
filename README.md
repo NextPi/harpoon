@@ -240,12 +240,3 @@ vim.cmd('highlight! HarpoonNumberActive guibg=NONE guifg=#7aa2f7')
 vim.cmd('highlight! HarpoonNumberInactive guibg=NONE guifg=#7aa2f7')
 vim.cmd('highlight! TabLineFill guibg=NONE guifg=white')
 ```
-
-Result:
-![tabline](https://i.imgur.com/8i8mKJD.png)
-
-## ⇁ Social
-For questions about Harpoon, there's a #harpoon channel on [the Primeagen's Discord](https://discord.gg/NextPi) server.
-* [Discord](https://discord.gg/NextPi)
-* [Twitch](https://www.twitch.tv/NextPi)
-* [Twitter](https://twitter.com/NextPi)
